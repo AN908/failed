@@ -40,17 +40,17 @@ img:hover {
   font-size: 12px;
 }
 
-img {
-  margin-left:auto;
-  margin-right:auto;
-  display: block;
-}
-
 .ChessPieces {
   font-weight: bold;
 }
 
 .italicsss {
   font-style: italic;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
